@@ -12,21 +12,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <span > 
-        <Link href="/">
-          <a>Home</a>
-        </Link>
-
-        <Link href="/about">
-          <a>About</a>
-        </Link>
-     
-        <Link href="/stories">
-          <a>Stories</a>
-        </Link>
-     
-        </span>   
-
 
          Hey world this is Jeevi! I exists!!!
     </div>
