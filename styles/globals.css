@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.underline {
+  text-decoration-color: red;
+  text-decoration: underline;
+}
+
