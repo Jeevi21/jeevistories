@@ -12,10 +12,10 @@ export default function Header() {
     <div >
       <Head>
       <title>Jeevi Stories</title>
-        <link rel="shortcut icon" href="/static/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
       <nav>
-      <ul className="flex text-white fixed list-none w-full justify-end bg-gray-800">
+      <ul className="flex text-white fixed list-none w-full justify-end bg-py">
         <li className={router.pathname == "/" ? active:notActive}> <Link href="/">Home</Link></li>
         <li className={router.pathname == "/skills" ? active:notActive}> <Link href="/skills">Skills</Link></li>
         <li className={router.pathname == "/stories" ? active:notActive}> <Link href="/stories">Stories</Link></li>

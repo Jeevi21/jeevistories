@@ -3,7 +3,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        cyan: '#9cdbff'
+        'py': '#011627',
+        'purple':'#c792ea'
       }
     },
   },

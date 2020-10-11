@@ -7,7 +7,7 @@ import Header from './utils/header'
 
 export default function Home() {
   return (
-    <div className="bg-gray-800">
+    <div className="bg-py">
           <Header/>
           <section className="flex justify-center min-h-screen items-center">
             <div className="flex-col">
