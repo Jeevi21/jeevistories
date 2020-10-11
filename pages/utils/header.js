@@ -12,7 +12,7 @@ export default function Header() {
     <div >
       <Head>
       <title>Jeevi Stories</title>
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/static/favicon.ico" />
       </Head>
       <nav>
       <ul className="flex text-white fixed list-none w-full justify-end bg-gray-800">
